@@ -1,3 +1,5 @@
+import Alex.Yersh;
+
 public class BaseEntity{
     private long id;
 
